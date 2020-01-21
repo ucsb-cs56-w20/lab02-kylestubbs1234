@@ -1,7 +1,6 @@
 # lab02-kylestubbs1234
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-kylestubbs1234/
-
 Repo: https://github.com/ucsb-cs56-w20/lab02-kylestubbs1234
 
 # About this repo
